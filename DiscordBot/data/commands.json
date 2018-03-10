@@ -1,0 +1,1 @@
+[null,{"name":"test","permissions":"NONE","restriction":"1","_id":"RbFfR","actions":[{"channel":"0","varName":"","message":"Hello ${member}","storage":"0","varName2":"","name":"Send Message"}],"comType":"0"}]
